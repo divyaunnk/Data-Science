@@ -1,8 +1,0 @@
-.idea
-__pycache__
-DataBase/TransientAttributes/cropped_images
-DataBase/TransientAttributes/imageAlignedLD
-DataBase/TransientAttributes/*.tfrecords
-DataBase/aligned_images.tar
-*.tfrecord
-GP-GAN_training
