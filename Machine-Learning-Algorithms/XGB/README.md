@@ -1,1 +1,1 @@
-XGB algorithm implementation
+eXtreme Gradient Boosting algorithm with hyperparameter tuning
